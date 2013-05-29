@@ -32,10 +32,6 @@
 The information modeled in this ontology is guided by LinkedTV scenarios (for more information visit http://www.linkedtv.eu/scenarios/).</Literal>
     </Annotation>
     <Annotation>
-        <AnnotationProperty IRI="#contributors"/>
-        <Literal datatypeIRI="&rdf;PlainLiteral">Fraunhofer IAIS</Literal>
-    </Annotation>
-    <Annotation>
         <AnnotationProperty abbreviatedIRI="owl:versionInfo"/>
         <Literal datatypeIRI="&rdf;PlainLiteral">v1.0</Literal>
     </Annotation>
